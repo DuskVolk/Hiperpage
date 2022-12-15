@@ -2,9 +2,24 @@ body {
     color: #333;
     text-align: center;
     font-family: helvetica;
-    font-size: 16px;
+    font-size: 14px;
     margin: 0;
     padding: 0;
+}
+#header {
+    background-color: cornflowerblue;
+    box-shadow: 0px 2px 20px 0px  rgba(70, 70, 209, 0.5);
+    color: white;
+    font-weight: bold;
+    font-size: 2rem;
+    margin: 0;
+    padding: 0.6rem;
+}
+
+#tagline {
+    padding-left: 0.5rem;
+    font-weight: 100;
+    font-size: 0.6rem;
 }
 
 #container {
@@ -16,5 +31,10 @@ body {
 }
 
 #container h1 {
-    font-size: 20px;
+    font-size: 24px;
+    margin-top: 1.5rem;
+}
+
+p {
+    margin-top: -0.5rem;
 }
