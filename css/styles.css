@@ -46,3 +46,9 @@ p {
     font-size: 0.8rem;
 
 }
+
+#logo {
+    width:35px;
+    vertical-align:middle;
+    padding-right:0.5rem;
+}
